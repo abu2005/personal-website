@@ -1,2 +1,2 @@
-# personal-website
+# project5_personal_website
 This is my first personal website. Still on progress...
